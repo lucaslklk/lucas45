@@ -1,0 +1,157 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+
+
+}
+body{
+background-color:#0a0c0d;
+
+}
+
+
+.background{
+
+background-color: #1c5052;
+border: #348e91 solid;
+padding: 15px;
+
+
+
+}
+
+.position{
+    position: sticky;
+    top: 0px;
+    
+
+
+}
+
+
+.titulo{ 
+position: relative;
+text-transform:uppercase;
+color:#f2f2f2 ;
+text-align: center;
+font-size: 3rem;
+bottom: 37px;
+}
+
+
+
+#leão{
+width: 100px;
+display: inline-block;
+top: 37px;
+position: relative;
+left: 67px;
+
+}
+
+
+
+
+.imagem{
+width: 1519px;
+height: 800px;
+
+}
+
+header{
+    width: 1514px;
+    height: 460px;
+    background-color: #348e91;
+    border: #1c5052 solid;
+    border-radius: 7px;
+
+
+
+}
+
+
+
+.informações{
+display: inline-block;
+width: 300px;
+height: 300px;
+text-align: center;
+color: #f2f2f2;
+margin-top: 100px;
+margin-left: 100px ;
+}
+.informações2{
+display:inline-block;
+width: 300px;
+height: 300px;
+text-align: center;
+color: #f2f2f2;
+margin-top: 100px;
+margin-left: 200px;
+}
+
+.informações3{
+display:inline-block;
+width: 300px;
+height: 300px;
+text-align: center;
+color: #f2f2f2;
+margin-top: 100px;
+margin-left: 200px;
+
+
+}
+.icon{
+width: 50px;
+display: inline-block;
+margin-right: 25px;
+
+
+}
+.empresa{
+position: relative;
+display: inline-block;
+color: #f2f2f2;
+max-width: 20%;
+bottom: 110px;
+left: 250px;
+text-align: center;
+
+}
+
+
+#sala-de-reunião{
+display: inline-block;
+
+
+}
+
+footer{
+    background-color: #1c5052;
+    width: 1519px;
+    height: 300px;
+    
+    }
+     #mensagem {
+text-align: center;
+color: #f2f2f2;
+margin-bottom: 20px;
+padding-top: 40px;
+
+
+    }
+    .conversa{
+    color:#f2f2f2;
+  text-align: center;
+
+}
+.email{
+position: relative;
+left: 665px;
+top: 45px;
+font-size: 20px;
+color: #f2f2f2;
+}
+
+
